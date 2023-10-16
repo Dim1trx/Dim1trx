@@ -4,7 +4,6 @@
   <a href="https://github.com/Dim1trx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dim1trx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dim1trx&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://th.bing.com/th?id=OIP.28qn7TW4SHAJOZ-abTG1hQHaHb&w=249&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="120" alt="Java">
 </table>
 
 <div> 
