@@ -4,12 +4,14 @@ Welcome to my GitHub profile! I'm passionate about coding and exploring new tech
 
 ## 📊 GitHub Stats
 
-<table>
-  <a href="https://github.com/Dim1trx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dim1trx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dim1trx&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</table>
+<div align="center">
+  <table>
+    <a href="https://github.com/Dim1trx">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dim1trx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dim1trx&layout=compact&langs_count=6&theme=tokyonight"/>
+    </a>
+  </table>
+</div>
 
 ## 📬 Contact Me
 
@@ -28,13 +30,15 @@ Connect with me through the following platforms:
 
 Here are some technologies I'm currently working with:
 
-- Java
-- Spring Boot
-- JavaScript
-- HTML & CSS
-- SQL
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java Logo" height="100" style="margin-right: 40px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot Logo" height="100" style="margin-right: 40px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo" height="100" style="margin-right: 40px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" height="100" style="margin-right: 40px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" height="100" style="margin-right: 40px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL Logo" height="100">
+</div>
 
 Feel free to explore my repositories to see what I've been working on lately. If you have any questions or collaboration ideas, don't hesitate to reach out!
 
 Happy coding! 🚀
-
