@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and exploring new technologies. Feel free to take a look around and connect with me.
 
+🔍 **Professional Experience:**
+Currently seeking my first opportunity in the world of IT, I've been focusing on studying Java and Spring Boot. However, I'm open to exploring all possibilities within the field. During my previous internship in Electrical Engineering, particularly in the Photovoltaic Homologation sector, I thrived in a friendly and dynamic environment, collaborating with a tight-knit team of six colleagues. I honed my technical and interpersonal skills, excelling in software such as Excel, Word, and AutoCAD.
+
+💻 **Tech Enthusiast:**
+Leveraging my IT expertise, I initiated automation projects within the department. I utilized Python and Javascript to automate spreadsheets in Google and Excel, streamlining document completion in Word. These accomplishments were achieved during my past internship.
+
 ## 📊 GitHub Stats
 
 <div align="center">
