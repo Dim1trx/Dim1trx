@@ -51,14 +51,6 @@ https://themitech-st.hotmart.host/planilha-equatorial-cpfl-9eb666f6-3ac8-4030-b5
 - Docker
 - AWS
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dim1trx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dim1trx&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
 ---
 
